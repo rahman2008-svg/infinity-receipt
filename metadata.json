@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Receipt",
+  "description": "An offline-first professional receipt manager to create, preview, generate PDF/images, and share receipts with custom templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
